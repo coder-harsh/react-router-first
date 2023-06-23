@@ -6,7 +6,7 @@ import Error from "./pages/error";
 import {
     Routes,
     Route,
-    Navigate
+    // Navigate
 } from "react-router-dom";
 
 function App() {
